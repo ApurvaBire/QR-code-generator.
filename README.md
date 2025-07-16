@@ -1,5 +1,5 @@
 # QR Code image Generator
-Python QR Code Generator is an application that creates QR Code for a particular string or URL.
+Python QR Code Generator is an application that creates QR Code for a particular URL.
 
 ## 📌 Description
 A simple Python script to generate QR codes using the `qrcode` and `Pillow` libraries.
