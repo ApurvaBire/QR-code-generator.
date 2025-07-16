@@ -1,9 +1,3 @@
-Required Python Packages - 
-qrcode:
- - Used to generate QR codes from text or URLs.
- - Simple and easy-to-use interface for creating QR images.
-Pillow (PIL):
- - Python Imaging Library used for image manipulation.
- - In this project, it's used to save and manage the QR image format.
-
+qrcode
+Pillow
 
